@@ -1,0 +1,6 @@
+{
+  "name": "exa",
+  "id": "ccm",
+  "main": "cn.ksmcbrigade.CCM.Manager",
+  "function": "run"
+}
